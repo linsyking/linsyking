@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @linsyking
+My homepage: [yydbxx](https://yydbxx.cn)
 
-Most time I don't use Github to store my repo, I use [Personal Gitea Server](http://www.yydbxx.cn:3000/).
+My personal git server (for small projects): [fantasy scape](https://yydbxx.cn/fs)
+
+And... more on my homepage!
+
+Welcome to contact me via e-mail (in my homepage)!
