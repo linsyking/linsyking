@@ -6,6 +6,8 @@ My homepage is <https://yydbxx.cn>.
 
 [![linsyking's GitHub stats](https://github-readme-stats.vercel.app/api?username=linsyking&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Wakatime Stats
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2019%20mins-blue)
 
