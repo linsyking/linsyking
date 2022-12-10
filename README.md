@@ -8,6 +8,8 @@ My homepage is <https://yydbxx.cn>.
 
 ## Wakatime Stats
 
+(Since 2022 November)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2019%20mins-blue)
 
@@ -79,3 +81,5 @@ C#                       2 repos             ██░░░░░░░░░�
 
  Last Updated on 10/12/2022 04:12:00 UTC
 <!--END_SECTION:waka-->
+
+**CLAIM: I don't like Javascript.**
