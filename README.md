@@ -1,5 +1,8 @@
 ### Welcome!
 
+Follow me:heart:
+
+![](https://visitor-badge.glitch.me/badge?page_id=linsyking.linsyking)
 [![Waka Readme](https://github.com/linsyking/linsyking/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/linsyking/linsyking/actions/workflows/waka-readme.yml)
 
 My homepage is <https://yydbxx.cn>.
