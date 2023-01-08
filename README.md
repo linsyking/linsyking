@@ -1,7 +1,5 @@
 ### Welcome!
 
-Follow me:heart:
-
 ![](https://visitor-badge.glitch.me/badge?page_id=linsyking.linsyking)
 [![Waka Readme](https://github.com/linsyking/linsyking/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/linsyking/linsyking/actions/workflows/waka-readme.yml)
 
@@ -83,5 +81,3 @@ C#                       2 repos             ██░░░░░░░░░�
 
  Last Updated on 08/01/2023 04:21:05 UTC
 <!--END_SECTION:waka-->
-
-**CLAIM: I don't like Javascript.**
