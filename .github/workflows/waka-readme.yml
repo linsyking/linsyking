@@ -14,5 +14,6 @@ jobs:
         with:
           SHOW_LOC_CHART: False
           SHOW_SHORT_INFO: False
+          SHOW_LANGUAGE_PER_REPO: False
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
