@@ -10,9 +10,9 @@
 (Since 2022 November)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm a Night 🦉** 
 
@@ -62,5 +62,5 @@ Linux                    1 hr 15 mins        ███████████�
 ```
 
 
- Last Updated on 23/04/2023 04:20:00 UTC
+ Last Updated on 24/04/2023 04:20:57 UTC
 <!--END_SECTION:waka-->
