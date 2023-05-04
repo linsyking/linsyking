@@ -24,7 +24,6 @@ jobs:
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_skipped: csharp
           plugin_languages_limit: 6
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
