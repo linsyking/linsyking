@@ -16,6 +16,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_lines: yes
           plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: 2
