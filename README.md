@@ -1,4 +1,6 @@
-### Welcome!
+### Hi!
+
+Let's build the world with maths.
 
 [![Readme](https://github.com/linsyking/linsyking/actions/workflows/readme.yml/badge.svg)](https://github.com/linsyking/linsyking/actions/workflows/readme.yml)
 
