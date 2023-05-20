@@ -28,7 +28,7 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561198323740839"
-          plugin_steam_sections: most-played
+          plugin_steam_sections: player, most-played
           plugin_steam_achievements_limit: 0
           plugin_vndb: yes
           plugin_vndb_user: u212839
