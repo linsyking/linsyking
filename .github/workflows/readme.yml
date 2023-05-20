@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: linsyking/metrics@latest
+      - uses: linsyking/metrics@0.0.2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
