@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: linsyking/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
@@ -30,3 +30,6 @@ jobs:
           plugin_steam_user: "76561198323740839"
           plugin_steam_sections: most-played,recently-played
           plugin_steam_achievements_limit: 0
+          plugin_vndb: yes
+          plugin_vndb_user: u212839
+          plugin_vndb_favourite_games: v13, v14018, v1377, v2153
