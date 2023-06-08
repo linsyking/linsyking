@@ -32,4 +32,4 @@ jobs:
           plugin_vndb: yes
           plugin_vndb_user: u212839
           plugin_vndb_sections: player, recently-playing, favourite, recently-finished
-          plugin_vndb_favourite_games: v13, v14018, v3770, v1377, v2153
+          plugin_vndb_favourite_games: v13, v14018, v1377
