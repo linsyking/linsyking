@@ -19,6 +19,15 @@ jobs:
           SHOW_COMMIT: false
           SHOW_DAYS_OF_WEEK: false
           SHOW_LANGUAGE: false
+          SHOW_OS: false
+          SHOW_PROJECTS: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false
+          SHOW_TIMELINE: false
+          SHOW_TIME_LINE: false
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
