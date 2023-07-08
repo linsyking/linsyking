@@ -1,6 +1,6 @@
-### Hi!
+Currently living in Beng Bu (since 2023).
 
-Let's build the world with maths.
+![](https://img.shields.io/badge/Beng%20Bu%20Citizen-8A2BE2) ![](https://img.shields.io/badge/status-alive-green)
 
 [![Readme](https://github.com/linsyking/linsyking/actions/workflows/readme.yml/badge.svg)](https://github.com/linsyking/linsyking/actions/workflows/readme.yml)
 
