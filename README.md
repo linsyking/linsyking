@@ -1,4 +1,4 @@
-Interested in building a *safe*, *concise* and *fast* general game engine (model) for better video game programming (on the programming language level).
+Interested in building a *safe and fast* general game engine (model) for better video game programming (on the programming language level).
 
 ![](https://img.shields.io/badge/Beng%20Bu%20Citizen-8A2BE2) ![](https://img.shields.io/badge/status-alive-green)
 
