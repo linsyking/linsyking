@@ -18,7 +18,7 @@ jobs:
           base: header, repositories
           config_timezone: America/New_York
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, languages, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_languages: no
           plugin_languages_ignored: >-
