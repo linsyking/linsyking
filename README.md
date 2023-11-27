@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Beng%20Bu%20Citizen-8A2BE2) ![](https://img.shields.io/badge/status-alive-green)
+![](https://img.shields.io/badge/status-alive-green)
 
 [![Readme](https://github.com/linsyking/linsyking/actions/workflows/readme.yml/badge.svg)](https://github.com/linsyking/linsyking/actions/workflows/readme.yml) [![wakatime](https://wakatime.com/badge/user/b29db030-e6f7-485e-85af-93bb9f429312.svg)](https://wakatime.com/@b29db030-e6f7-485e-85af-93bb9f429312)
 
