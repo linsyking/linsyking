@@ -7,3 +7,6 @@
 ![Metrics](/github-metrics.svg)
 
 [vndb](https://vndb.org/u212839) | [bangumi](https://bangumi.tv/user/linsyking) | [bilibili](https://space.bilibili.com/38360608)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover !important; width: 130vw; opacity: 0.5; background: url('https://github.com/linsyking/linsyking/releases/download/0.0.1/53117853_p0.jpg');]{x0000}$}
