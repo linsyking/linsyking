@@ -28,6 +28,8 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_habits_days: 30
+          plugin_habits_from: 1000
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: no
           plugin_steam_user: "76561198323740839"
