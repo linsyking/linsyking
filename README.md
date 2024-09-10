@@ -2,7 +2,7 @@
 
 [![Readme](https://github.com/linsyking/linsyking/actions/workflows/readme.yml/badge.svg)](https://github.com/linsyking/linsyking/actions/workflows/readme.yml) [![wakatime](https://wakatime.com/badge/user/b29db030-e6f7-485e-85af-93bb9f429312.svg)](https://wakatime.com/@b29db030-e6f7-485e-85af-93bb9f429312)
 
-[![linsyking's GitHub stats](https://github-readme-stats.vercel.app/api?username=linsyking&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![linsyking's GitHub stats](https://github-readme-stats.vercel.app/api?username=linsyking&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](/github-metrics.svg)
 
